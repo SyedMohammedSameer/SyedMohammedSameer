@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 MLOps Engineer at Lumenci<br>🎓 Master's Student in Machine Learning at the University of Arizona<br>🤝 Looking to Collaborate on Open Source ML Projects and Kaggle Competitions<br>🌱 Seeking Help with Building a Zero Investment AI Startup<br>🔭 Passionate About Technology, Rockets, and Astronomy<br>⚽ Sports Enthusiast
+🚀 Software Engineer at Lumenci<br>🎓 Master's Student in Machine Learning at the University of Arizona<br>🤝 Looking to Collaborate on Open Source ML Projects and Kaggle Competitions<br>🌱 Seeking Help with Building a Zero Investment AI Startup<br>🔭 Passionate About Technology, Rockets, and Astronomy<br>⚽ Sports Enthusiast
 
 
 ## 🌐 Socials:
