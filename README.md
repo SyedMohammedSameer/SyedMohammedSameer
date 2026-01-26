@@ -2,7 +2,7 @@
 **AI Engineer & Researcher**  
 *Building models, startups, and breakthroughs in machine learning*
 
-📍 Tucson, Arizona | 📞 +1-520-250-6750 | [Portfolio](https://mohammedsameersyed.me) | [GitHub](https://github.com/SyedMohammedSameer)
+📍 Tucson, Arizona | [Portfolio](https://mohammedsameersyed.me) | [GitHub](https://github.com/SyedMohammedSameer)
 
 ---
 
