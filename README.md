@@ -17,7 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedsameersyed/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedsameersyed1@gmail.com)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammedsameersyed.me)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammedsameersyed.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=3&gmla=AIqSsVsYJiuevj0XIx0tFiFGEwwX7K1nGlqKtaLQChr6RK6VZPg-8klXRT_F8Eb1ozr6fhhwg-DhynHtJP1elA&user=gJHynrcAAAAJ)
 [![Profile Views](https://komarev.com/ghpvc/?username=SyedMohammedSameer&style=for-the-badge&color=15F726)](https://github.com/SyedMohammedSameer)
 
